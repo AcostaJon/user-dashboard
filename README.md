@@ -22,5 +22,6 @@
 - **Scripting:** JavaScript (ES6+ DOM manipulation & event handling)
 - **Data Visualization:** [Chart.js](https://www.chartjs.org/) 
 - **Icons:** SVG / [Font Awesome](https://fontawesome.com/)
+- **Deploy:** GitHub Pages (https://acostajon.github.io/user-dashboard/)
 
 ---
