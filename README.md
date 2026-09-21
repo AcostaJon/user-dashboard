@@ -24,9 +24,3 @@
 - **Icons:** SVG / [Font Awesome](https://fontawesome.com/)
 
 ---
-
-
-1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/your-username/user-dashboard.git](https://github.com/your-username/user-dashboard.git)
-   cd user-dashboard
