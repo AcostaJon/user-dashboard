@@ -25,11 +25,6 @@
 
 ---
 
-## 🚀 Getting Started
-
-No build scripts or package installs required. You can launch and run this application directly in any modern browser.
-
-### Installation & Usage
 
 1. **Clone the repository**
    ```bash
